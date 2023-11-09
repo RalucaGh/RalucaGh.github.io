@@ -18,6 +18,6 @@ In my free time I enjoy cooking, playing with my cats and reading highly questio
 
 
 
-### Behold the cat tax: Frankie and Yuumi
+### Behold the cat tax: Yuumi and Frankie
 ![Frankie](/assets/images/banners/yuumi.jpeg)
 ![Yuumi](/assets/images/banners/Frankie.jpeg)
