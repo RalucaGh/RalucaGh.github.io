@@ -3,9 +3,9 @@ layout: about
 title: About
 ---
 
-> #About the main character
+#About the main character
 
-##Hi, nice to meet you. 
+Hi, nice to meet you. 
 
 My name is Raluca and I am curently indulgng in my very expensive hobby by studying an MSc in Data Science at the University of Essex. 
 
