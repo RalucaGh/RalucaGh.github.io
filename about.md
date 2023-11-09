@@ -35,7 +35,7 @@ In my free time I enjoy cooking, playing with my cats and reading highly questio
 
 ### Behold the cat tax: Yuumi and Frankie
 
-[![Cats] (/assets/images/banners/cats.jpg)]
+[![Cats](/assets/images/banners/cats.jpg)]
 
 
-[![Cats] (/assets/images/banners/0.jpg)]
+[![Cats](/assets/images/banners/0.jpg)]
