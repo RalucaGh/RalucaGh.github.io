@@ -26,7 +26,7 @@ I am a curious individual that loves to learn anything and everythin. This has l
 
 - I am currently studying an MSc in Data Science at the University of Essex and I dream of one day being able to understand complex Machine Learning Algorithms. 
 - I have completed a BSc in Criminology and Psychology where I fell in love with Data and Statistics, and I tried to hone that by deep diving into database creation and data analysis with SQL. 
-- Before any of these I got myself a nice shining nursing degree where I fell in love with science (and learnd how to fix some boo-boos)
+- Before any of these I got myself a nice shining nursing degree where I fell in love with science (and learned how to fix some boo-boos)
 
 ### Fun facts:
 
