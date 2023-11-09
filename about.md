@@ -16,7 +16,8 @@ Currently I work with an international charity that specialises in non-formal ed
 
 In my free time I enjoy cooking, playing with my cats and reading highly questionable literature
 
-Behold the cat tax:
 
-### This 
-!(
+
+### Behold the cat tax: Frankie and Yuumi
+![Frankie](/assets/images/banners/yuumi.jpeg)
+![Yuumi](/assets/images/banners/Frankie.jpeg)
