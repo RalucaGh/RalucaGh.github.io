@@ -3,13 +3,13 @@ layout: about
 title: About
 ---
 
-# About the main character
+### About the main character
 
 ### Introduction:
 
 Hi there, nice to meet you. 
 
-My name is Raluca and I am a 27-years-old professional living near London. I am dedicated and results-driven, and I like to get my nose stuck in complex problems.  
+My name is Raluca and I am a 27 years old professional living near London. I am dedicated and results-driven, and I like to get my nose stuck in complex problems.  
 
 
 ### Work experience:
@@ -22,7 +22,7 @@ Previously I have worked as an Area Coordinator for large Online Retailer where 
 
 ### Education:
 
-I am a curious individual that loves to learn anything and everythin. This has led to the following expensive hobby:
+I am a curious individual that loves to learn anything and everything. This has led to the following expensive hobby:
 
 - I am currently studying an MSc in Data Science at the University of Essex and I dream of one day being able to understand complex Machine Learning Algorithms. 
 - I have completed a BSc in Criminology and Psychology where I fell in love with Data and Statistics, and I tried to hone that by deep diving into database creation and data analysis with SQL. 
