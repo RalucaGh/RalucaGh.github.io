@@ -48,7 +48,7 @@ To this:
 
 ![bigd](/assets/images/banners/normalised.png)
 
-An finally, this:
+And finally, this:
 
 ![bigd](/assets/images/banners/databuilt.png)
 
