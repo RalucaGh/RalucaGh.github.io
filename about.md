@@ -9,13 +9,13 @@ title: About
 
 Hi there, nice to meet you. 
 
-My name is Raluca and I am a 27 years old professional living near London. I am dedicated and results-driven, and I like to get my nose stuck in complex problems.  
+My name is Raluca and I am a 28 years old professional living near London. I am dedicated and results-driven, and I like to get my nose stuck in complex problems.  
 
 
 ### Work experience:
 
 
-I currently work with an international charity that specialises in non-formal education and learning where I am responsible for the SharePoint Intranet development, data analysis, and training and support. I am also the defacto IT person :).
+I currently work with an national charity that specialises in communication and learning where I am responsible for the SharePoint Intranet development, Salesforce development and maintanance, WordPress, data analysis, and training and support. I am also the defacto IT person :).
 
 Previously I have worked as an Area Coordinator for large Online Retailer where I managed the day to day operations and a team of 35 to ensure a smooth running of business. 
 
